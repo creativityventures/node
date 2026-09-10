@@ -1,3 +1,7 @@
+## Parcours francais
+
+Guide noeud et HyperEVM dans docs/fr/README.md.
+
 # Running a node
 
 ## Machine Specs
